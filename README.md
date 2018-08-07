@@ -1,4 +1,4 @@
-# IBM CLOYD Y TERRAFORM #
+# IBM CLOUD Y TERRAFORM #
 
 **IBM Cloud Object Storage**
 
@@ -10,12 +10,12 @@ mv $HOME/Downloads/terraform-provider-ibm $HOME/.terraform.d/plugins/
 
 Editar archivo terraform.tfvars, el cual debe contener las credenciales de IBM Infrastructure (Softlayer) y IBM Cloud
 
-Inicializar terraform. 
+Inicializar terraform:
 ```
 terraform init
 ```
 
-Crear recurso
+Crear recurso:
 ```
 terraform apply
 ```
